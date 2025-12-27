@@ -1,11 +1,12 @@
 # Privacy Policy for Another Diff
 
 **Effective Date:** November 29, 2025
+
 **Developer:** Wilson
 
 ## Introduction
 
-Another Diff ("the Extension") is a Chrome browser extension that allows users to compare JSON and XML data from two URLs with a VSCode-style side-by-side diff viewer. This privacy policy explains how the Extension handles data.
+Another Diff is a Chrome browser extension that allows users to compare JSON, XML and HTML data from two URLs with a VSCode-style side-by-side diff viewer. This privacy policy explains how the Extension handles data.
 
 ## Data Collection and Usage
 
@@ -89,6 +90,7 @@ We may update this privacy policy from time to time. The "Effective Date" at the
 If you have questions about this privacy policy or the Extension's data practices, please contact:
 
 **Developer:** Wilson
+
 **Contact:** wangwscn@gmail.com
 
 ---

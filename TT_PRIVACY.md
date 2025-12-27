@@ -1,11 +1,12 @@
 # Privacy Policy for Tidy Tabs
 
-**Effective Date:** December 27, 2024
+**Effective Date:** December 27, 2025
+
 **Developer:** Wilson
 
 ## Introduction
 
-Tidy Tabs ("the Extension") is a Chrome browser extension that automatically organizes your browser tabs into color-coded groups by domain, category, or custom rules. This privacy policy explains how the Extension handles data.
+Tidy Tabs is a Chrome browser extension that automatically organizes your browser tabs into color-coded groups by domain, category, or custom rules. This privacy policy explains how the Extension handles data.
 
 ## Data Collection and Usage
 
