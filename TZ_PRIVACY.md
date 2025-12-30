@@ -1,4 +1,4 @@
-# Privacy Policy for Tidy Tabs
+# Privacy Policy for Tab Zen
 
 **Effective Date:** December 27, 2025
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Tidy Tabs is a Chrome browser extension that automatically organizes your browser tabs into color-coded groups by domain, category, or custom rules. This privacy policy explains how the Extension handles data.
+Tab Zen is a Chrome browser extension that automatically organizes your browser tabs into color-coded groups by domain, category, or custom rules. This privacy policy explains how the Extension handles data.
 
 ## Data Collection and Usage
 
@@ -97,4 +97,4 @@ If you have questions about this privacy policy or the Extension's data practice
 
 ## Summary
 
-**In short:** Tidy Tabs processes data entirely within your browser. No data is collected, tracked, or transmitted to external servers. Your browsing stays private.
+**In short:** Tab Zen processes data entirely within your browser. No data is collected, tracked, or transmitted to external servers. Your browsing stays private.
